@@ -1,0 +1,2 @@
+WT	WT	WT	Komar	Komar	Komar	Shuf1	Shuf1	Shuf1
+1	1	1	1.27	2.01	0.81	0.74	1.15	0.47
